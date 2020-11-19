@@ -11,3 +11,5 @@ C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\
 C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.dll
 C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.pdb
 C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.genruntimeconfig.cache
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.csproj.CopyComplete
