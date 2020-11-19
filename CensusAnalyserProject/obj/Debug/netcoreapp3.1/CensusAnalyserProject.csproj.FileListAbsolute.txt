@@ -1,0 +1,13 @@
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.exe
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.deps.json
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.runtimeconfig.json
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.runtimeconfig.dev.json
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.dll
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\bin\Debug\netcoreapp3.1\CensusAnalyserProject.pdb
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.csprojAssemblyReference.cache
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.AssemblyInfoInputs.cache
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.AssemblyInfo.cs
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.dll
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.pdb
+C:\Users\com\source\repos\CensusAnalyserProject\CensusAnalyserProject\obj\Debug\netcoreapp3.1\CensusAnalyserProject.genruntimeconfig.cache
